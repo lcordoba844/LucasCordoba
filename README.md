@@ -8,7 +8,7 @@ I specialize in the JavaScript/TypeScript ecosystem, using frameworks like React
 🔭 I’m currently deepening my knowledge in microservice architectures, cloud computer services (AWS) and AI agent workflows.
 💬 Languages: Spanish (Native), English (B2).
 📫 You can reach me on my LinkedIn profile.
-🛠️ Technologies & Tools
+🛠️ ## Technologies & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
